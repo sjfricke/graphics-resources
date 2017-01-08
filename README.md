@@ -148,6 +148,7 @@ This will download all PDFs and power-point slides into a folder called `resourc
 - [List of Realtime Global Illumination Techniques](https://extremeistan.wordpress.com/2014/05/11/realtime-global-illumination-techniques-collection/)
 - [David Arcila's Game Development Resources](https://game-development.zeef.com/david.arcila)
 - [awesome-opengl](https://github.com/eug/awesome-opengl)
+- [awesome-webgl](https://github.com/sjfricke/awesome-webgl)
 - [Readings on Physically Based Rendering](https://interplayoflight.wordpress.com/2013/12/30/readings-on-physically-based-rendering/)
 
 ## Bloggers
